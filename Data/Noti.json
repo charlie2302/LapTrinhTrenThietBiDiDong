@@ -1,0 +1,46 @@
+{
+    "Notification" : [
+        {
+            "background": "https://www.harper7coffee.com/images/Cua_hang/V2.jpg",
+            "time": "Hôm nay, 07:01",
+            "name": "NgocHuong Bakery&Coffee thêm sản phẩm",
+            "description": "Chúng tôi đã mở thêm mục TEA trong menu. Thêm nhiều lựa chọn, thêm sản phẩm vào mùa lễ này như một món quà tri ân khách hàng..."
+        },
+        {
+            "background": "https://i.pinimg.com/564x/17/77/9f/17779f306ebcfd62a0282c9ac33e709a.jpg",
+            "time": "Hôm nay, 07:10",
+            "name": "Chào buổi sáng",
+            "description": "Tận hưởng hương vị đăng đắng, ngọt hậu khó tả của coffee nhấm nháp cùng với những chiếc bánh ngọt đem lại sự tỉnh táo và năng lượng tích cực cho một ngày dài..."
+        },
+        {
+            "background": "https://i.pinimg.com/564x/23/d1/ef/23d1efe05b9f2241b46bf96fd588a883.jpg",
+            "time": "Hôm nay, 07:15",
+            "name": "Chào buổi sáng",
+            "description": "Tận hưởng hương vị đăng đắng, ngọt hậu khó tả của coffee nhấm nháp cùng với những chiếc bánh ngọt đem lại sự tỉnh táo và năng lượng tích cực cho một ngày dài..."
+        },
+        {
+            "background": "https://i.pinimg.com/564x/a4/34/b2/a434b24a7a2e3be9a12318642d603f43.jpg",
+            "time": "Hôm nay, 07:23",
+            "name": "Dành cho những cô nàng ngọt ngào",
+            "description": "Vài chiếc bánh mì nguyên cám dinh dưỡng cùng một cốc sữa ấm sẽ là lựa chọn tuyệt vời mở đầu buổi sáng bằng những điều ngọt ngào..."
+        },
+        {
+            "background": "https://i.pinimg.com/564x/01/3b/ef/013bef9aa7ef45dce66c4835329e556e.jpg",
+            "time": "Hôm nay, 09:00",
+            "name": "Xoa dịu những chiếc dạ dày đang sôi",
+            "description": "Bánh trứng vỏ ngàn lớp tan chảy, béo ngọt, tuy bé nhỏ nhưng lại sẵn sàng hạ gục bất kỳ ai bởi mùi vị thơm ngon, hấp dẫn của mình..."
+        },
+        {
+            "background": "https://i.pinimg.com/564x/78/04/23/780423d619e4f05be525a30be30c8b26.jpg",
+            "time": "Hôm nay, 10:43",
+            "name": "Giới thiệu thực đơn trưa",
+            "description": "Nước sốt đặc biệt của NgocHuong Bakery&Coffee sẽ nâng tầm bánh kẹp lên một tầm mới. Một suất bánh kẹp đặc biệt sẽ được tặng kèm ly coca là bữa trưa tuyệt vời cho bạn"
+        },
+        {
+            "background": "https://i.pinimg.com/564x/ea/89/85/ea8985ee62922adc8d13588d3ba5d350.jpg",
+            "time": "Hôm nay, 14h20",
+            "name": "Giới thiệu món ăn bữa xế",
+            "description": "Bánh su kem sữa tươi là một trong những món bánh quen thuộc được rất nhiều người ưa thích bởi hương vị béo ngọt, thơm ngon."
+        }
+    ]
+}

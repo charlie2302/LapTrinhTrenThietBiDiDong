@@ -1,0 +1,134 @@
+{
+    "Cakes" : [
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Banana_Cake.png",
+            "quantity": 18,
+            "name": "Banana Cake - Bánh Chuối",
+            "currency": "25.000đ/Bánh",
+            "promotion": "45.000đ/2 Bánh",
+            "smile": 95
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Donut-chocolate-800x600.png",
+            "quantity": 20,
+            "name": "Donut Chocolate - Bánh Vòng vị Chocolate",
+            "currency": "30.000đ/Bánh",
+            "promotion": "50.000đ/2 Bánh",
+            "smile": 97
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Macarroon-800x600.png",
+            "quantity": 15,
+            "name": "Macaron - Vị Chocolate hoặc vị Dâu Tây",
+            "currency": "20.000đ/Bánh",
+            "promotion": "100.000đ/Hộp 6 chiếc",
+            "smile": 92
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/harper7coffee-tiramisu.png",
+            "quantity": 12,
+            "name": "Tiramisu",
+            "currency": "40.000đ/Bánh",
+            "promotion": "70.000đ/2 Bánh",
+            "smile": 98
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/harper7coffee-red-velvet.png",
+            "quantity": 15,
+            "name": "Red Velvet",
+            "currency": "40.000đ/Bánh",
+            "promotion": "70.000đ/2 Bánh",
+            "smile": 95
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/harper7coffee-fruit-chocolate-cake.png",
+            "quantity": 12,
+            "name": "Fruit Chocolate Cake",
+            "currency": "40.000đ/Bánh",
+            "promotion": "70.000đ/2 Bánh",
+            "smile": 90
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/harper7coffee-matcha-cake.png",
+            "quantity": 15,
+            "name": "Matcha Cake",
+            "currency": "35.000đ/Bánh",
+            "promotion": "60.000đ/2 Bánh",
+            "smile": 99
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/harper7coffee-almond-chocolate-cake.png",
+            "quantity": 12,
+            "name": "Almond Chocolate Cake",
+            "currency": "35.000đ/Bánh",
+            "promotion": "60.000đ/2 Bánh",
+            "smile": 91
+        }
+    ],
+    "Breads" : [
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Banana_Cake.png",
+            "quantity": 18,
+            "name": "á đù víp",
+            "currency": "25.000đ/Bánh",
+            "promotion": "45.000đ/2 Bánh",
+            "smile": 95
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Donut-chocolate-800x600.png",
+            "quantity": 20,
+            "name": "Donut Chocolate - Bánh Vòng vị Chocolate",
+            "currency": "30.000đ/Bánh",
+            "promotion": "50.000đ/2 Bánh",
+            "smile": 97
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Macarroon-800x600.png",
+            "quantity": 15,
+            "name": "Macaron - Vị Chocolate hoặc vị Dâu Tây",
+            "currency": "20.000đ/Bánh",
+            "promotion": "100.000đ/Hộp 6 chiếc",
+            "smile": 92
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/harper7coffee-tiramisu.png",
+            "quantity": 12,
+            "name": "Tiramisu",
+            "currency": "40.000đ/Bánh",
+            "promotion": "70.000đ/2 Bánh",
+            "smile": 98
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/harper7coffee-red-velvet.png",
+            "quantity": 15,
+            "name": "Red Velvet",
+            "currency": "40.000đ/Bánh",
+            "promotion": "70.000đ/2 Bánh",
+            "smile": 95
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/harper7coffee-fruit-chocolate-cake.png",
+            "quantity": 12,
+            "name": "Fruit Chocolate Cake",
+            "currency": "40.000đ/Bánh",
+            "promotion": "70.000đ/2 Bánh",
+            "smile": 90
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/harper7coffee-matcha-cake.png",
+            "quantity": 15,
+            "name": "Matcha Cake",
+            "currency": "35.000đ/Bánh",
+            "promotion": "60.000đ/2 Bánh",
+            "smile": 99
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/harper7coffee-almond-chocolate-cake.png",
+            "quantity": 12,
+            "name": "Almond Chocolate Cake",
+            "currency": "35.000đ/Bánh",
+            "promotion": "60.000đ/2 Bánh",
+            "smile": 91
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "Cakes" : [
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Banana_Cake.png",
+            "quantity": 18,
+            "name": "Banana Cake - Bánh Chuối",
+            "currency": "25.000đ/Bánh",
+            "promotion": "45.000đ/2 Bánh",
+            "smile": 95
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Donut-chocolate-800x600.png",
+            "quantity": 20,
+            "name": "Donut Chocolate - Bánh Vòng vị Chocolate",
+            "currency": "30.000đ/Bánh",
+            "promotion": "50.000đ/2 Bánh",
+            "smile": 97
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Macarroon-800x600.png",
+            "quantity": 15,
+            "name": "Macaron - Vị Chocolate hoặc vị Dâu Tây",
+            "currency": "20.000đ/Bánh",
+            "promotion": "100.000đ/Hộp 6 chiếc",
+            "smile": 92
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/harper7coffee-tiramisu.png",
+            "quantity": 12,
+            "name": "Tiramisu",
+            "currency": "40.000đ/Bánh",
+            "promotion": "70.000đ/2 Bánh",
+            "smile": 98
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/harper7coffee-red-velvet.png",
+            "quantity": 15,
+            "name": "Red Velvet",
+            "currency": "40.000đ/Bánh",
+            "promotion": "70.000đ/2 Bánh",
+            "smile": 95
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/harper7coffee-fruit-chocolate-cake.png",
+            "quantity": 12,
+            "name": "Fruit Chocolate Cake",
+            "currency": "40.000đ/Bánh",
+            "promotion": "70.000đ/2 Bánh",
+            "smile": 90
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/harper7coffee-matcha-cake.png",
+            "quantity": 15,
+            "name": "Matcha Cake",
+            "currency": "35.000đ/Bánh",
+            "promotion": "60.000đ/2 Bánh",
+            "smile": 99
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/harper7coffee-almond-chocolate-cake.png",
+            "quantity": 12,
+            "name": "Almond Chocolate Cake",
+            "currency": "35.000đ/Bánh",
+            "promotion": "60.000đ/2 Bánh",
+            "smile": 91
+        }
+    ],
+    "Breads" : [
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Plain-croissant-800x600.png",
+            "quantity": 12,
+            "name": "Plain Croissant - Bánh sừng bò thường",
+            "currency": "25.000đ/Bánh",
+            "promotion": "45.000đ/2 Bánh",
+            "smile": 95
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Ham_cheese_croissant.png",
+            "quantity": 30,
+            "name": "Ham&Cheesse Croissant - Bánh sừng bò thịt nguội phô mai",
+            "currency": "30.000đ/Bánh",
+            "promotion": "55.000đ/2 Bánh",
+            "smile": 97
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Almond-croissant-800x600.png",
+            "quantity": 11,
+            "name": "Almond Croissant - Bánh sừng bò hạnh nhân",
+            "currency": "30.000đ/Bánh",
+            "promotion": "55.000đ/2 Bánh",
+            "smile": 92
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Orange_Brioche.png",
+            "quantity": 12,
+            "name": "Brioche - Bánh mì hoa cúc",
+            "currency": "35.000đ/Bánh",
+            "promotion": "60.000đ/2 Bánh",
+            "smile": 98
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Sandwich-800x600.png",
+            "quantity": 30,
+            "name": "Sandwich - Bánh mì gối nguyên cám",
+            "currency": "20.000đ/Túi",
+            "promotion": "50.000đ/3 Túi",
+            "smile": 95
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/baguette-tui-3c-800x600.png",
+            "quantity": 12,
+            "name": "Baguette - Baguette nguyên cám",
+            "currency": "40.000đ/Bánh",
+            "promotion": "70.000đ/2 Bánh",
+            "smile": 90
+        }
+    ],
+    "Coffee" : [
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Ca-phe-den-chai.png",
+            "quantity": 12,
+            "name": "Cafe đen (Chai)",
+            "currency": "50.000đ/Chai 100ml",
+            "promotion": "90.000đ/Chai 250ml",
+            "smile": 95,
+            "description": "Đắng dịu, chua nhẹ, ngọt hậu. Hương Chocolate, Caramel. 70% ARABICA - 50% ROBUSTA"
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Ca-phe-nau-chai.png",
+            "quantity": 15,
+            "name": "Cafe nâu (Chai)",
+            "currency": "50.000đ/Chai 100ml",
+            "promotion": "90.000đ/Chai 250ml",
+            "smile": 94,
+            "description": "Đậm đà, ngọt ngào. Hương Chocolate, Caramel. 70% ARABICA - 30% ROBUSTA"
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Bac-siu-chai.png",
+            "quantity": 11,
+            "name": "Bạc xỉu (Chai)",
+            "currency": "40.000đ/Chai 100ml",
+            "promotion": "80.000đ/Chai 250ml",
+            "smile": 99,
+            "description": "Nhẹ nhàng, ngậy sữa. Hương Chocolate, Caramel. 70% ARABICA - 30% ROBUSTA"
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Latte-chai.png",
+            "quantity": 19,
+            "name": "Latte (Chai)",
+            "currency": "40.000đ/Chai 100ml",
+            "promotion": "60.000đ/Chai 250ml",
+            "smile": 94,
+            "description": "Thanh tao, mát dịu. Hương trái cây, Chocolate. 100% HONEY ARABICA"
+        },
+        {
+            "background": "https://www.harper7coffee.com/components/com_vikrestaurants/assets/media/Cold-brew-chai.png",
+            "quantity": 21,
+            "name": "Cold brew (Chai)",
+            "currency": "40.000đ/Chai 100ml",
+            "promotion": "80.000đ/Chai 250ml",
+            "smile": 98,
+            "description": "Chua dịu, mát lạnh. Hương trái cây. 100% HONEY ARABICA"
+        }
+    ],
+    "Tea" : [
+        {
+            "background": "http://royaltea.vn/temp/-uploaded-san%20pham-fruittea_8_cr_660x435.jpg",
+            "quantity": 19,
+            "name": "Fresh Fruit Tea - Trà xanh hoa quả",
+            "currency": "20.000đ/Cốc 100ml",
+            "promotion": "40.000đ/Cốc 250ml",
+            "smile": 95,
+            "description": "Hội tụ của 3 loại trái cây nhiệt đới Chanh, Quất và Mứt chanh leo. Vị thanh mát của trà xanh, thoang thoảng hương hoa nhài mát lạnh"
+        },
+        {
+            "background": "http://royaltea.vn/temp/-uploaded-san%20pham-Smoothie_luc-tra-dau-tay_cr_660x435.jpg",
+            "quantity": 22,
+            "name": "Fresh Fruit Smoothie - Lục trà dâu tây kem cheese",
+            "currency": "23.000đ/Cốc 100ml",
+            "promotion": "45.000đ/Cốc 250ml",
+            "smile": 94,
+            "description": "Hương vị dâu chua ngọt, béo ngậy của kem cheese tạo cảm giác “viên mãn”, hương vị đọng tròng trong khoang miệng."
+        },
+        {
+            "background": "http://royaltea.vn/temp/-uploaded-san%20pham-cheese_3-hong-tra-royal%20kem-cheese_cr_660x435.jpg",
+            "quantity": 11,
+            "name": "Royal Cheese - Trà xanh royal kem cheese",
+            "currency": "40.000đ/Cốc 100ml",
+            "promotion": "80.000đ/Cốc 250ml",
+            "smile": 99,
+            "description": "Vị thơm mà không chát, ngọt nhẹ nơi cuống họng, mùi trà xanh, hoa nhài thoang thoảng"
+        },
+        {
+            "background": "http://royaltea.vn/temp/-uploaded-san%20pham-Hottea_1-tra-khoai-mon-lua-mach-nong_cr_660x435.jpg",
+            "quantity": 23,
+            "name": "Hottea -Trà khoai môn lúa mạch nóng",
+            "currency": "45.000đ/Cốc 100ml",
+            "promotion": "65.000đ/Cốc 250ml",
+            "smile": 94,
+            "description": "Màu tím nhẹ rất dịu mắt, mùi thì cực kì thơm, hương vị béo ngọt xen lẫn chút trà đắng nhẹ, bùi bùi của khoai môn, sền sệt của lúa mạch"
+        },
+        {
+            "background": "http://royaltea.vn/temp/-uploaded-san%20pham-MILKTEA_4-Tra-sua-tran-chau-kem-trung_cr_660x435.jpg",
+            "quantity": 26,
+            "name": "Milk Tea - Trà sữa trân châu kem trứng",
+            "currency": "55.000đ/Cốc 100ml",
+            "promotion": "100.000đ/Cốc 250ml",
+            "smile": 98,
+            "description": "Mềm béo, mát lạnh, vị thơm nhẹ, đã thế lại có lớp kem trứng hấp dẫn phủ quanh cốc, topping trân châu khiến món Trà sữa chân trâu kem trứng trở nên mới mẻ và nhanh chóng được khách hàng “hâm mộ”."
+        }
+    ]
+}
